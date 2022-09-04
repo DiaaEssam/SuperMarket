@@ -1,0 +1,17 @@
+
+--Assumptions
+
+
+1- This Project Is a general SuperMarket Not Only Carrefoure
+
+2-Our Frequent Customer Is the Customer Who had the highest product bought (Paid a lot of money).
+
+
+3-Assuming that the Username is Unique
+
+
+4-We assumed both the product that has no Customer For a  Specifc Year and a Specific month 
+
+
+
+

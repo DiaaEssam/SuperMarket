@@ -1,5 +1,5 @@
 # SuperMarket<br/>
-&emsp;<strong>This project is about SuperMarket database where we:<br/>
+&emsp;<strong>1- This project is about SuperMarket database where we:<br/>
 &emsp;&emsp;    1- store information about customers.<br/>
 &emsp;&emsp;    2- store information about branches of the SuperMarket.<br/>
 &emsp;&emsp;    3- store information about the supermarket itself.<br/>
@@ -11,7 +11,7 @@
 &emsp;&emsp;    9- store information about products' groups.<br/>
 &emsp;&emsp;    10- store information about the inventory of the supermarket.<br/>
 
-&emsp;This project includes the following:<br/>
+&emsp;2- This project includes the following:<br/>
 &emsp;&emsp;    1- an ERD representation of the project in CDM, IDM , and PDM.<br/>
 &emsp;&emsp;    2- C# folder where we control how the forms of the project will be shown and also control any process done in database.<br/>
 &emsp;&emsp;    3- an Assumptions file where we made assumptions about some details in the project.<br/>

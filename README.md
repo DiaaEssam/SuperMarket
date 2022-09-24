@@ -1,5 +1,5 @@
 # SuperMarket<br/>
-&emsp;This project is about SuperMarket database where we:<br/>
+&emsp;<strong>This project is about SuperMarket database where we:<br/>
 &emsp;&emsp;    1- store information about customers.<br/>
 &emsp;&emsp;    2- store information about branches of the SuperMarket.<br/>
 &emsp;&emsp;    3- store information about the supermarket itself.<br/>
@@ -17,4 +17,4 @@
 &emsp;&emsp;    3- an Assumptions file where we made assumptions about some details in the project.<br/>
 &emsp;&emsp;    4- a Cover Page for the project.<br/>
 &emsp;&emsp;    5- a Database file which includes the whole database, tables, and queries.<br/>
-&emsp;&emsp;    6- a Database file which just includes the six queries we used in the project.<br/>
+&emsp;&emsp;    6- a Database file which just includes the six queries we used in the project.<strong/><br/>

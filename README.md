@@ -13,7 +13,7 @@
 
 &emsp;2- This project includes the following:<br/>
 &emsp;&emsp;    1- an ERD representation of the project in CDM, IDM , and PDM.<br/>
-&emsp;&emsp;    2- C# folder where we control how the forms of the project will be shown and also control any process done &emsp;&emsp;in database.<br/>
+&emsp;&emsp;    2- C# folder where we control how the forms of the project will be shown and also control any process done &emsp;&emsp;&emsp;in database.<br/>
 &emsp;&emsp;    3- an Assumptions file where we made assumptions about some details in the project.<br/>
 &emsp;&emsp;    4- a Cover Page for the project.<br/>
 &emsp;&emsp;    5- a Database file which includes the whole database, tables, and queries.<br/>
